@@ -1,0 +1,235 @@
+
+Matemática 1 - 2020
+
+Primer parcial - Corrección:
+
+-->> Martín Fondovila:
+	* LOGICA
+	Ejercicio 1)
+		a) Perfecto
+		b) Para mi se equivocó en los paréntesis, PREGUNTAR
+		c) Perfecto
+	Ejercicio 2)
+		Perfecto (cuantos pasos!)
+	Ejercicio 3)
+		Armado universo: Perfecto
+		Armado predicados: Perfecto
+		I) Perfecto
+		II) Perfecto
+		III) Perfecto (Muy buena la fórmula aplicada)
+	* CONJUNTOS
+	Ejercicio 1)
+		Diagrama de Venn: Perfecto
+		a) Perfecto
+		b) Perfecto
+		c) Perfecto
+	Ejercicio 2)
+		Perfecto
+	NOTA: Aprobado (10 o 9 según el 1.b)
+
+-->> Juan Salvucci:
+	* LOGICA
+	Ejercicio 1)
+		a) Perfecto
+		b) Perfecto
+		c) Perfecto
+	Ejercicio 2)
+		Perfecto
+	Ejercicio 3)
+		Armado universo: Perfecto
+		Armado predicados: Perfecto
+		I) Perfecto
+		II) Perfecto
+		III) Perfecto (Bien la fórmula aplicada)
+	* CONJUNTOS
+	Ejercicio 1)
+		Diagrama de Venn: Bien (mal la cantidad de personas que les gusta solo Cadena Perpetua)
+			"a 30 le gusta 1 de los 3" y en el diagrama representa que a 48 le gusta 1 de los 3. 
+		a) Bien interpretado el Venn, mal la cantidad, la cantidad es: 34.
+		b) Perfecto
+		c) Bien interpretado el Venn, arrastra el error de los 30.
+	Ejercicio 2)
+		Perfecto
+	NOTA: 9 Aprobado
+
+-->> Franco Mostafa:
+	* LOGICA
+	Ejercicio 1)
+		a) Perfecto
+		b) Perfecto
+		c) Perfecto
+	Ejercicio 2)
+		Perfecto
+	Ejercicio 3)
+		Armado universo: Perfecto
+		Armado predicados: Perfecto
+		I) Perfecto
+		II) Perfecto
+		III) Perfecto
+	* CONJUNTOS
+	Ejercicio 1)
+		Diagrama de Venn: Bien (mal la cantidad de personas que les gusta solo Cadena Perpetua)
+			"a 30 le gusta 1 de los 3" y en el diagrama representa que a 48 le gusta 1 de los 3. 
+		a) Bien interpretado el Venn, mal la cantidad, la cantidad es: 34.
+		b) Perfecto
+		c) Bien interpretado el Venn, arrastra el error de los 30.
+	Ejercicio 2)
+		Perfecto		
+	NOTA: 9 Aprobado
+
+-->> Enzo Fica:
+	* LOGICA
+	Ejercicio 1)
+		a) Perfecto
+		b) Perfecto
+		c) Mal. Para todos los predicados corresponde el objeto Punk del universo.
+	Ejercicio 2)
+		Perfecto
+	Ejercicio 3)
+		Armado universo: Bien, faltó identificar objetos del universo, ejemplo: l: Leonardo De Cecco, r: Ricardo Iorio, etc.
+		Armado predicados: Perfecto
+		I) Perfecto
+		II) Bien. Se cumple, no por L, además por: C, M y R.
+		III) Perfecto
+	* CONJUNTOS
+	Ejercicio 1)
+		Diagrama de Venn: Bien (mal la cantidad de personas que les gusta solo Cadena Perpetua)
+			"a 30 le gusta 1 de los 3" y en el diagrama representa que a 48 le gusta 1 de los 3. 
+		a) Bien interpretado el Venn, mal la cantidad, la cantidad es: 34.
+		b) Perfecto
+		c) Bien (menos). Bien interpretado el Venn, arrastra el error de los 30. Mal la justificación: "Este subconjunto representa a los que les
+		      gusta flema y cadena, solo flema y solo cadena"
+		      Sería: "Este subconjunto representa a los que les gusta flema y cadena Y NO ATTAQUE, solo flema y solo cadena".
+	Ejercicio 2)
+		Perfecto		
+	NOTA: 7 Aprobado
+
+-->> Juan Hiribarren:
+	* LOGICA
+	Ejercicio 1)
+		a) Perfecto
+		b) Perfecto
+		c) Perfecto
+	Ejercicio 2)
+		Perfecto
+	Ejercicio 3)
+		Armado universo: Perfecto
+		Armado predicados: Perfecto
+		I) Perfecto
+		II) Perfecto
+		III) Perfecto
+	* CONJUNTOS
+	Ejercicio 1)
+		Diagrama de Venn: Perfecto 
+		a) Perfecto
+		b) Perfecto
+		c) Perfecto
+	Ejercicio 2)
+		Perfecto		
+	NOTA: 10 Aprobado
+
+-->> Tomas Trinchero:
+	* LOGICA
+	Ejercicio 1)
+		a) Perfecto
+		b) Perfecto
+		c) Mal. Para todos los predicados corresponde el objeto Punk del universo.
+	Ejercicio 2)
+		Perfecto
+	Ejercicio 3)
+		Armado universo: Perfecto
+		Armado predicados: Perfecto
+		I) Perfecto
+		II) Bien (menos). En este caso se demuestra completando toda la tabla.
+		III) Perfecto
+	* CONJUNTOS
+	Ejercicio 1)
+		Diagrama de Venn: Bien (mal la cantidad de personas que les gusta solo Cadena Perpetua)
+			"a 30 le gusta 1 de los 3" y en el diagrama representa que a 48 le gusta 1 de los 3. 
+		a) Mal, independientemente del error de los 30, el cardinal de C es 52, a 52 personas les gusta Cadena.
+		b) Perfecto
+		c) Bien (menos). Bien interpretado el Venn, arrastra el error de los 30.
+	Ejercicio 2)
+		Perfecto		
+	NOTA: 7 Aprobado
+
+-->> Romina Bassi:
+	* LOGICA
+	Ejercicio 1)
+		a) Mal. Si se evalua un genero de musical de no crítica social, el resultado será falso; cuando la frase sigue siendo correcta y 
+			por lo tanto verdadera.
+		b) Perfecto
+		c) Bien. El existe al menos un objeto está de más.
+	Ejercicio 2)
+		Incompleto, se puede seguir simplificando la fórmula.
+	Ejercicio 3)
+		Armado universo: Perfecto
+		Armado predicados: Perfecto
+		I) Perfecto
+		II) Perfecto
+		III) Mal. Según la fórmula y como se ve en la tabla de verdad, los objetos del universo que son verdadero son Ricardo y Leonardo,
+		      cuando solo es verdadero Ricardo.
+	* CONJUNTOS
+	Ejercicio 1)
+		a) Perfecto
+		b) Perfecto
+		c) Perfecto
+	Ejercicio 2)
+		Bien la interpretación gráfica, se pedía utilizar propiedades.		
+	NOTA: 5 Aprobado
+
+-->> Facundo Calle:
+	* LOGICA
+	Ejercicio 1)
+		a) Regular, ¿por qué s(g)?
+		b) Regular, ¿por qué r(g)?
+		c) Mal. El Punk es un objeto del universo, no es un predicado.
+	Ejercicio 2)
+		Mal. Mal aplicado De Morgan en 2do. paso, de allí se llega a un resultado erroneo.
+	Ejercicio 3)
+		Armado universo: Perfecto
+		Armado predicados: Perfecto
+		I) Perfecto
+		II) Bien la formula, mal la tabla de verdad. Ejemplo: fila r, g AND j es V.
+		III) Mal. La formula es: .... AND e(y) 
+	* CONJUNTOS
+	Ejercicio 1)
+		Diagrama de Venn: Bien (mal la cantidad de personas que les gusta solo Cadena Perpetua)
+			"a 30 le gusta 1 de los 3" y en el diagrama representa que a 48 le gusta 1 de los 3. 
+		a) Mal, independientemente del error de los 30, el cardinal de C es 52, a 52 personas les gusta Cadena.
+		b) Perfecto
+		c) Mal. Representa a los que les gusta: solo Flema, solo Cadena y Flema y Cadena pero no Attaque 77.
+	Ejercicio 2)
+		No entregado		
+	NOTA: Desaprobado
+
+-->> Lucía Elichabe:
+	* LOGICA
+	Ejercicio 1)
+		a) Mal. Si s(x) entonces (...AND...AND...)
+		b) Perfecto
+		c) Perfecto (menos). El existe al menos está de más.
+	Ejercicio 2)
+		Regular. 
+		    Paso 4, no se puede sacar paréntesis, además sería asociativa y no conmutativa.
+		    Paso 5, es distributiva y además complementación, luego de la distributiva quedaron mal los operadores lógicos, 
+		      sería: -p OR ( q AND -q ), luego complementación queda: -p OR F; luego por identidad queda: -p
+	Ejercicio 3)
+		Armado universo: Perfecto
+		Armado predicados: Perfecto
+		I) Perfecto
+		II) Perfecto
+		III) Perfecto 
+	* CONJUNTOS
+	Ejercicio 1) 
+		a) Perfecto
+		b) Perfecto
+		c) Bien. Bien la interpretación del diagrama, la redacción no es correcta, representa a personas que les gusta solo Flema, solo Cadena y 
+		    Cadena y Flema pero no Ataque.
+	Ejercicio 2)
+		No entregado
+	NOTA: 5 Aprobado
+
+-->> Nacho no rindió
+-->> Gonzalo no rindió
+

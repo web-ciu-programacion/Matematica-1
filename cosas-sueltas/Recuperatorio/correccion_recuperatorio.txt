@@ -1,0 +1,37 @@
+
+Corrección Recuperatorio
+
+Facunado Calle:
+
+  LOGICA
+	ejericio 1)
+		Mal. La negación afecta a todo el paréntesis, se debe distribuir y luego aplicar asociativa.
+	
+	ejercicio 2) 
+		Formalizar
+		a) Bien
+		b) Bien
+		c) al revés x e y en Para todo y Existe
+		d) Bien
+		
+		Tablas de Verdad
+		a) Bien
+		b) No hizo
+		c) Bien
+		d) Mal
+		
+  CONJUNTOS
+    ejercicio 1) 
+    	"40 personas ven Last" y el diagrama refleja que son 67
+    	idem Hombrecitos y Sanful
+    	Diagrama: Mal
+    	Preguntas (tomo como referencia el diagrama aunque está mal)
+    	   a) Bien
+    	   b) Bien
+    	   c) Mal
+    	   d) Mal
+
+  INDUCCION
+    ejercicio 1)
+        Bien
+    
